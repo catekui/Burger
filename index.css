@@ -50,6 +50,15 @@ ol{
     /* width: 940px; */
     display: flex;
     }
+.QFD{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: brown;
+    border: 1px solid black;
+    width: 300px;
+    height: 300;
+
+}
 .burger1{
     border: 1px solid black;
     width: 300px;
