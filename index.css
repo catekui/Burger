@@ -9,6 +9,11 @@ body{
     border: 1px solid black;
 
 }
+.fltbg{
+    display: flex;
+    float: right;
+    background-color: #fec12b;
+}
 
 .hoca{
     justify-content: right;
@@ -41,4 +46,13 @@ p{
 
 }
 ol{
+    border: 1px solid black;
     }
+.burger1{
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+}
+.burger1 p{
+    width: 300px;
+}
