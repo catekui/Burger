@@ -23,6 +23,7 @@ body{
     flex-direction: row;
     font-size: 20px;
     /* margin-right: -40px; */
+
 }
 header{
     background-color: white;
@@ -50,13 +51,29 @@ ol{
     /* width: 940px; */
     display: flex;
     }
-.QFD{
+.Quality Burgers{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: medium;
+    font-size: small;
     color: brown;
     border: 1px solid black;
     width: 300px;
-    height: 300;
+    height: 300px;
+    margin: 20px;
+
+}
+.Fast Delivery{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    color: brown;
+
+}
+.Delicious meals{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    
 
 }
 .burger1{
