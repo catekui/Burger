@@ -19,29 +19,16 @@ nav ul li {
  text-decoration: none;
 
 }
-}
-.fltbg{
-    display: flex;
-    float: right;
-    background-color: #fec12b;
-}
-
-    /* margin-right: -40px; */
+.big burger {
+    height: 400px;
+    width:200px;
 
 }
-header{
-    background-color: white;
-    height: 120px;
-    text-align: left;
-}
-h2{
-    /* background: yellow; */
-    color: black;
-    /* border: 1px solid black; */
-    margin-top: 100px;
-    width: 200px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
+
+
+
+
+
 p{
     /* background: whitesmoke; */
     /* color: black; */
