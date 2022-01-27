@@ -16,81 +16,31 @@ nav ul{
 nav ul li {
    margin-right: 90px;
    list-style-type: none;
- text-decoration: none;
+    text-decoration: none;
+
 
 }
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
 .big burger {
     height: 400px;
-    width:200px;
+    width:200px;}
+
+.Qufade ul li{
+    border:2px;
+    padding:5px;
+    font-size: x-large;
+    font-weight: 30px;
+    color: black
 
 }
-
-
-
-
-
-p{
-    /* background: whitesmoke; */
-    /* color: black; */
-    font-size: medium;
-    width: 350px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-
-}
-ol{
-    /* border: 1px solid black; */
-    /* width: 940px; */
-    display: flex;
-    }
-.Quality Burgers{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: small;
+.Quality Burgers {
     color: brown;
-    border: 1px solid black;
-    width: 300px;
-    height: 300px;
-    margin: 20px;
+    font-family: poppins;
 
 }
-.Fast Delivery{
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: small;
-    color: brown;
-
-}
-.Delicious meals{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: brown;
-    width: 300px;
-    height: 300px;
-    margin: 20px;
-
-
-}
-.burger1{
-    border: 1px solid black;
-    width: 300px;
-    height: 300px;
-}
-.burger1 p{
-    width: 300px;
-}
-.burger2{
-    border:1px solid black;
-    width: 300px;
-    height: 300px;
-    margin: 20px;
-}
-.burger2 p{
-    width: 300px;
-    /* display: flex; */
-}    
-.burger3{
-    border:1px solid black;
-    width: 300px;
-    height:300px;
-}
-.burger3 p{
-    width: 300px;
-    /* display: flex; */
-}    
