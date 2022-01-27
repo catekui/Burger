@@ -72,7 +72,30 @@ ul li a {
     text-align: center;
 }
 
+
 .QBurgers header{
     color: maroon;
     font-size: x-large;
+}
+
+.Omenu {
+background-color: wheat;
+flex-direction:row;
+display:flex;
+flex-wrap:wrap;
+}
+
+.Menu1 {
+flex-direction: column;
+display: flex;
+border:100px;
+flex-wrap: wrap;
+}
+
+.Menu2 {
+flex-direction: column;
+display: flex;
+border:100px;
+flex-wrap: wrap;
+display: flex;
 }
