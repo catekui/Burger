@@ -49,16 +49,18 @@ ul li a {
 
 
 
-.Qufade ul li{
-    border:2px;
-    padding:5px;
-    font-size: x-large;
-    font-weight: 30px;
-    color: black
+.Qufade{
+    flex-direction: row;
+    display: flex;
+    background: whitesmoke;
+
 
 }
-.Quality Burgers {
-    color: brown;
+.QBurgers {
+    flex-direction: column;
+    border: solid brown;
+    flex-wrap: wrap;
+    border-radius: 20%;
     font-family: poppins;
 
 }
