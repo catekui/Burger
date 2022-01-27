@@ -78,7 +78,7 @@ ul li a {
     font-size: x-large;
 }
 
-.Omenu {
+.OMenu {
 background-color: wheat;
 flex-direction:row;
 display:flex;
@@ -88,14 +88,24 @@ flex-wrap:wrap;
 .Menu1 {
 flex-direction: column;
 display: flex;
-border:100px;
+border:0em;
+border:solid black;
 flex-wrap: wrap;
+margin: 20px;
+border-radius: 10%;
+margin-left: 50px;
+margin-right: 50px;
 }
 
 .Menu2 {
 flex-direction: column;
 display: flex;
-border:100px;
+border:0em;
 flex-wrap: wrap;
 display: flex;
+border: solid black;
+border-radius: 10%;
+margin: 20px;
+margin-left: 50px;
+margin-right: 50px;
 }
