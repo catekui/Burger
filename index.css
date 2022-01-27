@@ -6,30 +6,48 @@ body{
 
 
 }
-nav ul{
+ul{
     display: flex;
     flex-direction: row;
     justify-content: right;
     margin-top: -2opx;
+    list-style: none;
 
 }
-nav ul li {
-   margin-right: 90px;
-   list-style-type: none;
+ul li{
+    margin:20px;
+}
+ul li a {
     text-decoration: none;
+    font-weight: bold;
+    font-size: x-large;
+
+}
+.Bigburger {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Bigburger h2{
+    font-family: poppins;
+    margin-bottom: 5%;
+
+}
+.Bigburger p{
+    font-family: poppins;
+    font-size: x-large;
+
+}
+.Bigburger img{
+    background-color: yellow;
+    float: right;
 
 
 }
-nav a{
-    text-decoration: none;
-    color: black;
-}
 
 
-
-.big burger {
-    height: 400px;
-    width:200px;}
 
 .Qufade ul li{
     border:2px;
