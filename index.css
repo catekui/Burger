@@ -34,8 +34,15 @@ body{
     display: flex;
     flex-direction: row;  
 }
+
 .Bigburger1{
     margin-left: 150px;
+}
+button {
+    background-color: orange;
+    border-radius: 2rem;
+    height: 35px;
+    
 }
 .Bigburger2 img {
     margin-left: 310px;
@@ -74,6 +81,11 @@ body{
 .imageQ{
     color: yellow;
     text-align: center;
+}
+.QBurgers {
+    margin-bottom: 20px;
+    padding-bottom: 80px;
+    border: 2em white;
 }
 
 
