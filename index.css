@@ -40,28 +40,22 @@ body{
 .Bigburger2 img {
     margin-left: 310px;
 }
-<<<<<<< HEAD
 .Bigburger img{
     background-color: yellow;
     float: right;
 }
 
-=======
 .Bigburger1 h2{
     margin-top: 100px;
 }
->>>>>>> 04074c991e254b70e4918bb0ceafe0494745bb57
 .Qufade{
     flex-direction: row;
     display: flex;
     background: whitesmoke;
-<<<<<<< HEAD
-=======
     text-align: center;
     /* border-radius: 2rem; */
 
 
->>>>>>> 04074c991e254b70e4918bb0ceafe0494745bb57
 }
 .QBurgers {
     flex-direction: column;
@@ -107,11 +101,8 @@ border:solid black;
 flex-wrap: wrap;
 margin: 20px;
 border-radius: 10%;
-<<<<<<< HEAD
 margin-top: 2px;
-=======
 margin-top: 5%;
->>>>>>> 04074c991e254b70e4918bb0ceafe0494745bb57
 text-align: center;
 }
 .Menu1 img {
@@ -132,22 +123,7 @@ text-align: center;
     flex-wrap: wrap;
     margin: 20px;
     border-radius: 10%;
-<<<<<<< HEAD
     margin-top: 2px;
-=======
-    margin-top: 5%;
-    text-align: center;
-} 
-.Menu2 img {
-    margin-left: auto;
-    margin-right: auto;
-}
-.Menu2 h3 {
-    text-align: center;
-    font-size: x-large;
-    color: maroon;
-
->>>>>>> 04074c991e254b70e4918bb0ceafe0494745bb57
 }
 .Menu2 img {
     margin-left: auto;
