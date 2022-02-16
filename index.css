@@ -43,18 +43,12 @@ ul li a {
 .Bigburger img{
     background-color: yellow;
     float: right;
-
-
 }
-
-
 
 .Qufade{
     flex-direction: row;
     display: flex;
     background: whitesmoke;
-
-
 }
 .QBurgers {
     flex-direction: column;
