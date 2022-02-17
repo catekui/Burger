@@ -3,6 +3,11 @@ body{
     font-family: poppins;
 }
 
+}
+.bur {color: black;
+    
+}
+.ger {color:#F6B400}
 .navbar {
     background-image: -webkit-linear-gradient(150deg, #F6B400 44%, white 35%);
     min-height: 700px; 
