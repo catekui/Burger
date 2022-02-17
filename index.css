@@ -101,9 +101,16 @@ flex-direction:row;
 display:flex;
 flex-wrap:wrap;
 justify-content: space-between;
+
+
+}
+.menu {
+    color:#F6B400
 }
 .our h1 {
     text-align: center;
+    text-decoration:underline #F6B400;
+    
 
 }
 
